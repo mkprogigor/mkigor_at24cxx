@@ -1,0 +1,14 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+AT24Cxx	        KEYWORD1
+AT24Cxx_addr    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin       	KEYWORD2
+read 	    	KEYWORD2
+write       	KEYWORD2
+read_arr  	KEYWORD2
+write_arr  	KEYWORD2
