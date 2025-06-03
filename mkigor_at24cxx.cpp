@@ -5,7 +5,7 @@ by Igor Mkprog, mkprogigor@gmail.com
 V0.1 from 08.05.2025
 ************************************************************************************/
 
-#include <mkigor_at24cxx.h>
+#include "mkigor_at24cxx.h"
 
 uint8_t AT24Cxx_addr = 0x57;
 

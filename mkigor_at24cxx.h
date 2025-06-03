@@ -8,8 +8,8 @@ V0.1 from 08.05.2025
 #ifndef mkigor_at24cxx_h
 #define mkigor_at24cxx_h
 
-#include "Arduino.h"
-#include "Wire.h"
+#include <Arduino.h>
+#include <Wire.h>
 
 /*************************************************/
 class AT24Cxx {
