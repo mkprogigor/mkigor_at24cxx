@@ -1,16 +1,12 @@
 /************************************************************************************
 Library for test and use in weather stations with Bosch i2c sensor bme280
-by Igor Mkprog
-
-use examples:
-https://github.com/AlexGyver/GyverLibs/blob/master/GyverBME280/
-https://github.com/farmerkeith/BMP280-library/
-https://github.com/farmerkeith/I2CScanner/
+by Igor Mkprog, mkprogigor@gmail.com
 
 V0.1 from 08.05.2025
 ************************************************************************************/
-#ifndef at24cxx_h
-#define at24cxx_h
+
+#ifndef mkigor_at24cxx_h
+#define mkigor_at24cxx_h
 
 #include "Arduino.h"
 #include "Wire.h"
