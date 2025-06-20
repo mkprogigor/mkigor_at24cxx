@@ -25,10 +25,10 @@ Functions don't use of delay, don't foget make 10ms delay ! afte write command.
 It should do it manually for benefits of using FreeRTOS.
 
 I used:<BR>
-oficial datasheet ATMEL 2-Wire Serial EEPROM 32K (4096 x 8), 64K (8192 x 8).<BR>
+oficial datasheet ATMEL 2-Wire Serial EEPROM 32K (4096 x 8), 64K (8192 x 8) and good article:<BR>
 https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/<BR>
 
 I tested it only with 1 chinese chip  DS3231 module. :-(<BR>
-![Alt text](images/DS3231_at24c.jpeg)<BR>
+<img src="images/DS3231_at24c.jpeg" alt="Board DS3231" style="width:50%; height:auto;"><BR>
 
 https://www.linkedin.com/posts/ihor-koniuk-146840350_chinese-board-with-ds3231-rtc-on-board-is-activity-7330616390229344258-aMlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFewZMYBEfyiDoJClKnjuWzaCT7PkqrGSyI
